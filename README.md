@@ -17,7 +17,7 @@ This is an unmanaged extension that return the Max Flow of a graph.
 
 5. Query it over HTTP:
 
-        curl http://localhost:7474/ext/service/max_flow/1/7
-        or in the http console: get /ext/service/max_flow/1/7
+        curl http://localhost:7474/ext/service/max_flow/0/6
+        or in the http console: get /ext/service/max_flow/0/6
 
 
